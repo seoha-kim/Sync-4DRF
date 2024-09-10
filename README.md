@@ -6,9 +6,9 @@
 Official repository for <a href="https://openreview.net/forum?id=RQutkn4V9I">"Optimizing Dynamic NeRF and 3DGS with No Video Synchronization"</a> <br>
 enabling dynamic NeRFs and 3DGS to successfully reconstruct the scene from unsynchronized dataset.
 
-- This paper is the extension of the previously accepted <a href="https://arxiv.org/abs/2310.13356">paper</a>  and is currently under review in the journal. <br>
-For Dynamic NeRFs, please refer to this <a href="https://seoha-kim.github.io/sync-nerf/">project page</a>.
-- For Dynamic 3DGS, I will update the code and the result video soon. Please stay tuned. ☺️
+- This paper is the extension of the previously accepted <a href="https://arxiv.org/abs/2310.13356">paper</a> and is currently under review in the journal. <br> This workshop paper is a summary version. 
+- For Dynamic NeRFs, please refer to this <a href="https://seoha-kim.github.io/sync-nerf/">project page</a>. <br>
+For Dynamic 3DGS, I will update the code and the result video soon. Please stay tuned. ☺️
 
 ## BibTex
 ```
