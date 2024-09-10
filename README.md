@@ -8,6 +8,7 @@ enabling dynamic NeRFs and 3DGS to successfully reconstruct the scene from unsyn
 
 - This paper is the extension of the previously accepted <a href="https://arxiv.org/abs/2310.13356">paper</a>  and is currently under review in the journal. <br>
 For Dynamic NeRFs, please refer to this <a href="https://seoha-kim.github.io/sync-nerf/">project page</a>.
+- For Dynamic 3DGS, I will update the code and the result video soon. Please stay tuned. ☺️
 
 ## BibTex
 ```
